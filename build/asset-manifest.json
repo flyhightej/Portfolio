@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.1f5541bb.css",
+    "main.js": "/Portfolio/static/js/main.abf62cc1.js",
+    "static/media/image.png": "/Portfolio/static/media/image.9a8ac1c0053fc28f25fd.png",
+    "static/media/portfolio-6.png": "/Portfolio/static/media/portfolio-6.4a10fac7d271e87859e9.png",
+    "static/media/portfolio-2.png": "/Portfolio/static/media/portfolio-2.33d06b368b4e6395030e.png",
+    "static/media/portfolio-4.png": "/Portfolio/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
+    "static/media/portfolio-1.png": "/Portfolio/static/media/portfolio-1.b33adf772d54ab33e953.png",
+    "static/media/portfolio-5.png": "/Portfolio/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
+    "static/media/portfolio-3.png": "/Portfolio/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
+    "static/media/python.png": "/Portfolio/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/react.png": "/Portfolio/static/media/react.86c8d9eba03e29814d2a.png",
+    "static/media/machineLearning.png": "/Portfolio/static/media/machineLearning.6e0819c37402cd0d450b.png",
+    "static/media/logo2.png": "/Portfolio/static/media/logo2.7e8caff358a217ff380b.png",
+    "static/media/webDesign.png": "/Portfolio/static/media/webDesign.f721d6300da36dde4a81.png",
+    "static/media/cpp.png": "/Portfolio/static/media/cpp.24a8f93854ab092f17a7.png",
+    "static/media/appDesign.png": "/Portfolio/static/media/appDesign.5363b1b79b6324c9ea5d.png",
+    "static/media/java.png": "/Portfolio/static/media/java.b7a2f6415cec10cee413.png",
+    "static/media/javascript.png": "/Portfolio/static/media/javascript.78206ba65e01c7d57080.png",
+    "static/media/html.png": "/Portfolio/static/media/html.cfb2ba4a6b1c3de295bc.png",
+    "static/media/contact.png": "/Portfolio/static/media/contact.2d37f4c73686c22b6554.png",
+    "static/media/css.png": "/Portfolio/static/media/css.6c9fd512b594be488cf9.png",
+    "static/media/instagram.png": "/Portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/Portfolio/index.html",
+    "main.1f5541bb.css.map": "/Portfolio/static/css/main.1f5541bb.css.map",
+    "main.abf62cc1.js.map": "/Portfolio/static/js/main.abf62cc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f5541bb.css",
+    "static/js/main.abf62cc1.js"
+  ]
+}
